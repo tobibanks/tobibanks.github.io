@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
 		<title>Ino</title>
 		<link>/property-item/ino/</link>
@@ -1911,7 +1911,7 @@
 				</div>
 				<div class="elementor-element elementor-element-26d23f35 elementor-widget elementor-widget-spacer" data-id="26d23f35" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+			<style>/*! elementor - v3.6.7 - 03-07-2022 */
 .e-container.e-container--row .elementor-spacer-inner{width:var(--spacer-size)}.e-container.e-container--column .elementor-spacer-inner,.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}</style>		<div class="elementor-spacer">
 			<div class="elementor-spacer-inner"></div>
 		</div>

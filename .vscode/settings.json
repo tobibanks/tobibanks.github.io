@@ -1,3 +1,12 @@
 {
-    "editor.autoClosingBrackets": "always"
+    "editor.autoClosingBrackets": "always",
+    "cSpell.words": [
+        "Acomplishments",
+        "MERN",
+        "mpath",
+        "nopadding",
+        "Unichat",
+        "webshop",
+        "xlink"
+    ]
 }

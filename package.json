@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@next/env": "^13.2.4",
     "jshint": "^2.13.6",
     "next": "10.2.3",
     "react": "17.0.2",
